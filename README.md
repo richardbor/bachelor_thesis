@@ -5,7 +5,9 @@ A spatio-temporal analysis of usage patterns in free-floating shared mobility
 7337876, University of Cologne
 
 
-Use git clone ’https://github.com/richardbor/bachelor_thesis.git’ to fetch repository.
+Use git clone https://github.com/richardbor/bachelor_thesis.git to fetch repository.
+
+Be aware of extremely high running times due to data set size.
 
 
 Files included:
